@@ -23,8 +23,8 @@ console.log("3.1 Power:", Math.pow(base, exponent));
 console.log("3.2 Square root:", Math.sqrt(numberForSqrt));       
 
 
-console.log("4.1 Random decimal (0–1):", Math.random());
-console.log("4.2 Random integer (1–10):", Math.floor(Math.random() * 10) + 1);
+console.log("4.1 Random decimal:", Math.random());
+console.log("4.2 Random integer:", Math.floor(Math.random() * 10) + 1);
 
 const radius = 7;
 const area = Math.PI * Math.pow(radius, 2);
